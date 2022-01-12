@@ -9,7 +9,7 @@ The goal of this project is to
    3. Apply K-means clustering algorithm in order to segment customers.
    
 Group Members:
-   1. [KONIJETI SRI VYSHNAVI](https://github.com/srivyshnavikonijeti)_________AM.EN.U4AIE20042
+   1. [KONIJETI SRI VYSHNAVI](https://github.com/srivyshnavikonijeti)_________________AM.EN.U4AIE20042
    2. [MADDALA H S M KRISHNA KARTHIK](https://github.com/karthik1124)_________AM.EN.U4AIE20046
-   3. [METHUKU SAMHITHA](https://github.com/METHUKUSAMHITHA)__________________AM.EN.U4AIE20049
-   4. [SURAVARAPU ANKITH](https://github.com/Ankith-Suravarapu)_______________AM.EN.U4AIE20070
+   3. [METHUKU SAMHITHA](https://github.com/METHUKUSAMHITHA)______________________AM.EN.U4AIE20049
+   4. [SURAVARAPU ANKITH](https://github.com/Ankith-Suravarapu)_____________________AM.EN.U4AIE20070
